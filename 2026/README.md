@@ -29,7 +29,7 @@
 
 ## Лекции.
 
-0. Какие-то предыдущие темы на курсе (NumPy, SciPy, Pandas, Seaborn, Dash, Тестирование, Базы данных, PyPika, PyMongo).
+0. Предыдущие темы на курсе (NumPy, SciPy, Pandas, Seaborn, Dash, Тестирование, Базы данных, PyPika, PyMongo, ...).
 1. Парсинг данных.
 3. Продвинутый парсинг данных.
 4. Multiprocessing + Threading.
